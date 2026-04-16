@@ -5,12 +5,12 @@
 💻 Passionate about building real-world applications  
 🚀 Focused on mobile & web development  
 
----
+
 
 ## 🧠 About Me
 I am a dedicated Software Engineering student with hands-on experience in building practical and user-friendly applications. I enjoy solving real-world problems using technology and continuously improving my skills through projects and learning.
 
----
+
 
 ## 🛠️ Tech Stack
 - 📱 Flutter (Mobile Development)
@@ -18,7 +18,7 @@ I am a dedicated Software Engineering student with hands-on experience in buildi
 - 🐍 Python
 - 🌐 HTML, CSS, JavaScript (if applicable)
 
----
+
 
 ## 🔨 Projects
 
@@ -27,21 +27,21 @@ A web-based application designed to streamline laundry service operations, makin
 
 🔗 Live Demo: https://mevra-laundry-hub.lovable.app/
 
----
+
 
 ## 🚀 What I'm Working On
 - Improving my Flutter development skills  
 - Building more full-stack applications  
 - Exploring scalable system design  
 
----
+
 
 ## 🎯 Goals
 - Become a highly skilled software engineer  
 - Contribute to open-source projects  
 - Build impactful and scalable applications  
 
----
+
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/muteesi  
